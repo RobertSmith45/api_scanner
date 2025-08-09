@@ -1,0 +1,6 @@
+login
+users
+admin
+status
+internal/config
+v1/status
